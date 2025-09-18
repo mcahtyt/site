@@ -1,0 +1,9 @@
+Host hesabınızda bir veritabanı ve kullanıcısı oluşturup klasördeki dosyaları host hesabınıza yükleyin.
+
+Bilgisayarınızda çalışıyorsanız;
+application/config/development/database.php dosyasındaki veritabanı bilgilerini güncelleyiniz.
+
+Dosyalarınızı sunucunuza yüklediyseniz;
+application/config/production/database.php dosyasındaki veritabanı bilgilerini güncelleyiniz.
+
+Bu düzenlemeleri yaptıktan sonra web sitesi URL'nizi tarayıcıda açın. Kurulum başlayacaktır, adımları takip ederek işlemleri tamamlayın.  

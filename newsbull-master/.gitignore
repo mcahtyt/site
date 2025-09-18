@@ -1,0 +1,22 @@
+composer.lock
+composer.phar
+#vendor/
+nbproject/
+.idea/
+.DS_Store
+application/config/production/*
+application/var/*
+!application/var/cache/.gitkeep
+!application/var/logs/.gitkeep
+!application/var/sessions/.gitkeep
+!application/.htaccess
+
+public/upload/*
+!public/upload/temp/
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
